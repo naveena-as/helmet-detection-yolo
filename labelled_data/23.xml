@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Motorbike helmet data</folder>
+	<filename>23.jpg</filename>
+	<path>/home/naveena/Downloads/Motorbike helmet data/23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>267</width>
+		<height>189</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>31</ymin>
+			<xmax>126</xmax>
+			<ymax>119</ymax>
+		</bndbox>
+	</object>
+</annotation>
